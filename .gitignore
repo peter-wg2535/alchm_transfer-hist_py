@@ -1,0 +1,5 @@
+.env
+
+#Python Folder
+.venv
+__pycache__
